@@ -1,5 +1,3 @@
-print("hello world")
-
 """
 Docstring for Lab17_xenzonz-2.py
 i. Lab 17: Plot GitHub Repositories for a New Language
